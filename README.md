@@ -88,6 +88,3 @@ These findings are descriptive and do not establish causation.
 - Add profit and discount analysis if the required data becomes available.
 - Build an interactive sales dashboard.
 
-
-## License
-Specify a license if you choose to distribute this project publicly.
